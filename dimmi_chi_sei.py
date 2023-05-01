@@ -1,0 +1,1 @@
+print("questa è una funzione per delineare la tua personalità")
